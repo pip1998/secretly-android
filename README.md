@@ -1,2 +1,2 @@
 # secretly-android
-he Android client of secretly
+the Android client of secretly
